@@ -1,0 +1,36 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+    color: navy;
+    margin-left: 325px;
+}
+h1 {
+    color: darkblue;
+    margin-left: 275px;
+}
+
+links {
+    margin-left: 45px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+words {
+    margin-left: 450px;
+    font-size: 25px;
+    color: red;
+}
+
+header {
+    color: navy;
+    text-align: center;
+    font-size: 35px;
+}
+
+subtitle{
+    font-size: 25px;
+}
